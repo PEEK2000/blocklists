@@ -1,0 +1,14 @@
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/notserious,notserious_RPiList
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Phishing-Angriffe,Phishing-Angriffe_RPiList
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/spam.mails,spam.mails_RPiList
+https://raw.githubusercontent.com/RPiList/specials/refs/heads/master/Blocklisten/DomainSquatting/CH/BankCler,Domainsquatting_Cler_RPiList
+https://raw.githubusercontent.com/RPiList/specials/refs/heads/master/Blocklisten/DomainSquatting/CH/Credit-Suisse-AG,Domainsquatting_CS_RPiList
+https://raw.githubusercontent.com/RPiList/specials/refs/heads/master/Blocklisten/DomainSquatting/CH/Migrosbank,Domainsquatting_Migrosbank_RPiList
+https://raw.githubusercontent.com/RPiList/specials/refs/heads/master/Blocklisten/DomainSquatting/CH/NeonSchwitzerlandAG,Domainsquatting_Neon_RPiList
+https://raw.githubusercontent.com/RPiList/specials/refs/heads/master/Blocklisten/DomainSquatting/CH/PostFinance,Domainsquatting_Postfinance_RPiList
+https://raw.githubusercontent.com/RPiList/specials/refs/heads/master/Blocklisten/DomainSquatting/CH/SNB-SchweizerischeNationalbank,Domainsquatting_SNB_RPiList
+https://raw.githubusercontent.com/RPiList/specials/refs/heads/master/Blocklisten/DomainSquatting/CH/UBS,Domainsquatting_UBS_RPiList
+https://raw.githubusercontent.com/RPiList/specials/refs/heads/master/Blocklisten/malware,Malware_RPiList
+https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/refs/heads/master/GermanFilter/sections/adservers.txt,Ads_German_Adguard
+https://raw.githubusercontent.com/easylist/easylistgermany/refs/heads/master/easylistgermany/easylistgermany_adservers.txt,Ads_German_Easylist
+https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/refs/heads/master/MobileFilter/sections/adservers.txt,Ads_Mobile_Adguard
