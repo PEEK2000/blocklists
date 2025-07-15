@@ -85,6 +85,11 @@
 0.0.0.0 startup.mobile.yandex.net
 0.0.0.0 startup.mobile.webvisor.com
 0.0.0.0 startup-mobile.ap.yandex-net.ru
+0.0.0.0 tr.acobt.tech
+0.0.0.0 promotion.xmeye.net
+0.0.0.0 promotion-en.xmeye.net
+0.0.0.0 promotion-quicker.jftechsoft.com
+0.0.0.0 ads*-normal*.zijieapi.com
 0.0.0.0 sheilaqeb.com
 0.0.0.0 api.adaether.com
 0.0.0.0 cvt-s2.agl005.tech
@@ -176,7 +181,6 @@
 0.0.0.0 rtblab.net
 0.0.0.0 lacunads.com
 0.0.0.0 ads*.textra.me
-0.0.0.0 diopousg.com
 0.0.0.0 ruuaqkw.com
 0.0.0.0 ads-*-nfl.yinzcam.com
 0.0.0.0 prod.adjoe.zone
@@ -502,7 +506,6 @@
 0.0.0.0 api.ad-locus.com
 0.0.0.0 023hysj.com
 0.0.0.0 lxqcgj.com
-0.0.0.0 inclk.com
 0.0.0.0 betsonsport.ru
 0.0.0.0 holder.com.ua
 0.0.0.0 crosspromotion-us.avosapps.us
@@ -563,7 +566,6 @@
 0.0.0.0 247realmedia.com
 0.0.0.0 31.14.252.148
 0.0.0.0 360yield.com
-0.0.0.0 a2dfp.net
 0.0.0.0 abnad.net
 0.0.0.0 abtest.swrve.com
 0.0.0.0 ad*.nexage.com

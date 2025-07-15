@@ -132,7 +132,6 @@
 0.0.0.0 h5v.eu
 0.0.0.0 hot59.de
 0.0.0.0 ibanner.de
-0.0.0.0 iias.eu
 0.0.0.0 imo-cash.de
 0.0.0.0 in24.at
 0.0.0.0 inlinks.de
