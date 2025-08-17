@@ -65,7 +65,6 @@
 0.0.0.0 alphaads.de
 0.0.0.0 amunx.de
 0.0.0.0 anzeigen-vor-ort.de
-0.0.0.0 anzeigenlieferant.de
 0.0.0.0 arcor-partner.de
 0.0.0.0 arminius.io
 0.0.0.0 asnetworks.de
@@ -73,7 +72,6 @@
 0.0.0.0 auxmoney-partnerprogramm.de
 0.0.0.0 ay.delivery
 0.0.0.0 ba-content.de
-0.0.0.0 bannerchange.net
 0.0.0.0 bannerheld.de
 0.0.0.0 bauernative.com
 0.0.0.0 biallo1.de
