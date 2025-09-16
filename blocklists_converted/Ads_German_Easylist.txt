@@ -210,7 +210,6 @@
 0.0.0.0 trmads.eu
 0.0.0.0 trmget.eu
 0.0.0.0 trmwidget.eu
-0.0.0.0 trocado.at
 0.0.0.0 turboads.de
 0.0.0.0 twiago.com
 0.0.0.0 uselayer.com

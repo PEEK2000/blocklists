@@ -1,6 +1,7 @@
 # This blocklist was converted to HOSTS syntax to allow it being used with Pi-Hole.
 # All credits go to the original repository: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/refs/heads/master/MobileFilter/sections/adservers.txt
 
+0.0.0.0 *.libaishuo.com
 0.0.0.0 adx-open-service.youku.com
 0.0.0.0 ad.youku.com
 0.0.0.0 ykad-data.youku.com
@@ -50,6 +51,8 @@
 0.0.0.0 criteo.net
 0.0.0.0 appodeal.com
 0.0.0.0 appbaqend.com
+0.0.0.0 gallerieshub.com
+0.0.0.0 pic-stash.com
 0.0.0.0 ad.buzzvil.com
 0.0.0.0 screen.buzzvil.com
 0.0.0.0 adstrategy.biz.weibo.com
@@ -85,6 +88,7 @@
 0.0.0.0 startup.mobile.yandex.net
 0.0.0.0 startup.mobile.webvisor.com
 0.0.0.0 startup-mobile.ap.yandex-net.ru
+0.0.0.0 hpfkvr.icu
 0.0.0.0 horsed44.com
 0.0.0.0 fxlcvd.icu
 0.0.0.0 goi08150kh.com
@@ -93,7 +97,6 @@
 0.0.0.0 23.224.199.74
 0.0.0.0 cross-promo-provider.easybrain.com
 0.0.0.0 consent.easybrain.com
-0.0.0.0 ads.fubo.tv
 0.0.0.0 beijingzhongnanhai.com
 0.0.0.0 jybsb9oyss.com
 0.0.0.0 vniddlg.xyz
@@ -452,7 +455,6 @@
 0.0.0.0 api.newsfeed.intl.miui.com
 0.0.0.0 adv.sec.intl.miui.com
 0.0.0.0 adsrvr.io
-0.0.0.0 t7z.cupid.iqiyi.com
 0.0.0.0 data2.doodlemobile.com
 0.0.0.0 d239g0z67jcted.cloudfront.net
 0.0.0.0 newfeatureview.perfectionholic.com
