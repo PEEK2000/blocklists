@@ -88,6 +88,12 @@
 0.0.0.0 startup.mobile.yandex.net
 0.0.0.0 startup.mobile.webvisor.com
 0.0.0.0 startup-mobile.ap.yandex-net.ru
+0.0.0.0 robin-flow.com
+0.0.0.0 adsmoloco.com
+0.0.0.0 app-ads-services.com
+0.0.0.0 adtmonetize.com
+0.0.0.0 rugfrfji.win
+0.0.0.0 ads-cdn.hopper.com
 0.0.0.0 hpfkvr.icu
 0.0.0.0 horsed44.com
 0.0.0.0 fxlcvd.icu
@@ -179,7 +185,9 @@
 0.0.0.0 adnami.io
 0.0.0.0 ads-router-noneu.truecaller.com
 0.0.0.0 umphek.com
+0.0.0.0 playgap.b-cdn.net
 0.0.0.0 ahoy-internal-ads-hv.b-cdn.net
+0.0.0.0 downloadshi.b-cdn.net
 0.0.0.0 ad.iwhop.cn
 0.0.0.0 s-odx.oleads.com
 0.0.0.0 mediation.unity3d.com
@@ -193,7 +201,6 @@
 0.0.0.0 static.timetreeads.com
 0.0.0.0 zgzxs.weathercn.com
 0.0.0.0 kiesta.net
-0.0.0.0 downloadshi.b-cdn.net
 0.0.0.0 ads.rmbl.ws
 0.0.0.0 adsassets-ipv6.waze.com
 0.0.0.0 iads.unity3d.com
