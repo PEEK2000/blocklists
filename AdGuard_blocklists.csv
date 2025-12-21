@@ -12,3 +12,4 @@ https://raw.githubusercontent.com/RPiList/specials/refs/heads/master/Blocklisten
 https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/refs/heads/master/GermanFilter/sections/adservers.txt,Ads_German_Adguard
 https://raw.githubusercontent.com/easylist/easylistgermany/refs/heads/master/easylistgermany/easylistgermany_adservers.txt,Ads_German_Easylist
 https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/refs/heads/master/MobileFilter/sections/adservers.txt,Ads_Mobile_Adguard
+https://gist.githubusercontent.com/SalemHarrache/6c1fa0b14a055b6bfbe4664bfb7c88fc/raw/0eec82be2c84b9a613fb11ee6de7310fe08e6df1/smart-tv-blocklist.txt,SmartTV
